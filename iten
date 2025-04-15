@@ -1,0 +1,71 @@
+<section class="section">
+  <h2>🌍 Our Tour Packages | எங்கள் சுற்றுலா தொகுப்புகள்</h2>
+  <h3>7-Day Itinerary: Chennai → Madurai → Rameswaram → Kanyakumari</h3>
+
+  <div class="itinerary">
+    <h4>Day 1: Arrival in Chennai</h4>
+    <ul>
+      <li><strong>Arrival</strong>: Reach Chennai and check-in.</li>
+      <li><strong>Sightseeing</strong>: Visit Marina Beach, Kapaleeshwarar Temple.</li>
+    </ul>
+  </div>
+
+  <div class="itinerary">
+    <h4>Day 2: Chennai → Madurai</h4>
+    <ul>
+      <li><strong>Departure</strong>: Drive to Madurai.</li>
+      <li><strong>Sightseeing</strong>: Meenakshi Amman Temple, Thirumalai Nayakkar Mahal.</li>
+    </ul>
+  </div>
+
+  <div class="itinerary">
+    <h4>Day 3: Madurai → Rameswaram</h4>
+    <ul>
+      <li><strong>Departure</strong>: Drive to Rameswaram.</li>
+      <li><strong>Sightseeing</strong>: Ramanathaswamy Temple, Pamban Bridge, Dhanushkodi Beach.</li>
+    </ul>
+  </div>
+
+  <div class="itinerary">
+    <h4>Day 4: Rameswaram → Kanyakumari</h4>
+    <ul>
+      <li><strong>Departure</strong>: Drive to Kanyakumari.</li>
+      <li><strong>Sightseeing</strong>: Vivekananda Rock Memorial, Thiruvalluvar Statue.</li>
+    </ul>
+  </div>
+
+  <div class="itinerary">
+    <h4>Day 5: Kanyakumari Full Day</h4>
+    <ul>
+      <li><strong>Morning</strong>: Watch sunrise at Vivekananda Rock Memorial.</li>
+      <li><strong>Sightseeing</strong>: Kanyakumari Temple, Sunset Point.</li>
+    </ul>
+  </div>
+
+  <div class="itinerary">
+    <h4>Day 6: Kanyakumari → Madurai</h4>
+    <ul>
+      <li><strong>Return</strong>: Drive back to Madurai.</li>
+      <li><strong>Sightseeing</strong>: Optional visit to Sri Meenakshi Temple.</li>
+    </ul>
+  </div>
+
+  <div class="itinerary">
+    <h4>Day 7: Madurai → Chennai</h4>
+    <ul>
+      <li><strong>Return</strong>: Drive back to Chennai for departure.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <h2>📞 Contact Us | எங்களை தொடர்புகொள்க</h2>
+  <p>📱 Call us: <strong>+91 99402 21583</strong></p>
+  <p>📧 Email: <a href="mailto:agilatoursandtravels@gmail.com">agilatoursandtravels@gmail.com</a></p>
+  <p>💬 WhatsApp: <a href="https://wa.me/919940221583" class="btn">Chat with us on WhatsApp</a></p>
+</section>
+
+<section class="section">
+  <h2>📝 Book Your Tour Now | இப்போது உங்கள் சுற்றுலாவை பதிவு செய்யவும்</h2>
+  <a href="https://forms.gle/yourformlink" class="btn">📲 Book via Google Form</a>
+</section>
